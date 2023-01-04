@@ -13,6 +13,4 @@ chore - updating build tasks, package manager configs, etc
 for now i know:
 
 1. Javascript
-1. nodeJJS
-1. Repl.it
-1. CHALK
+
